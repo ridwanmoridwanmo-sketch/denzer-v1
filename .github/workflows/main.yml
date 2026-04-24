@@ -1,4 +1,4 @@
-name: Build APK Denzer V1
+name: Build APK
 
 on:
   push:
